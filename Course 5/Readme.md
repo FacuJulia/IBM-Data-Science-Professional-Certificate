@@ -19,6 +19,9 @@ https://en.wikipedia.org/wiki/World_population
   * Ticker: TSLA, GME, APPL, AMD, AMZN, ..
 
 https://pypi.org/project/yfinance/
+
 https://finance.yahoo.com/
+
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/stock.html
+
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0220EN-SkillsNetwork/labs/project/revenue.htm
