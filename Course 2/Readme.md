@@ -16,7 +16,7 @@ https://www.coursera.org/learn/open-source-tools-for-data-science
 - Access and explore data sets in the Data Asset Exchange (DAX).
 - Examine deep learning models on the Model Asset Exchange (MAX) and interact with an image-detection deep learning model.
 
-## Module 2:
+## [Module 2:](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/tree/main/Course%202/Module%202)
 - Describe the fundamentals of Jupyter Notebooks and the JupyterLab platform and why they are popular for data science projects.
 - Cite some examples of how Jupyter is used in data science for recording experiments and projects.
 - Use Jupyter notebooks to experiment with code cells, create data visualization slides, and reporting results using Markdown.
