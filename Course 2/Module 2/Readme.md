@@ -3,6 +3,7 @@
 * [Module 2 - Lab 1](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2_Coursera/Lab-JupyterNotebook-TheBasics.md.html?origin=www.coursera.org)
 * [Module 2 - Lab 2](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2_Coursera/Lab-JupyterNotebook_MoreFeatures.md.html?origin=www.coursera.org)
 * [Module 2 - Lab 3](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2_Coursera/Lab-JupyterNotebook-AdvFeature.md.html?origin=www.coursera.org)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ![](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%202/img/Jupyter-notebook.PNG)
 
