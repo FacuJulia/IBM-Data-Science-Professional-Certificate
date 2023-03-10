@@ -4,7 +4,7 @@
 
 https://www.coursera.org/learn/open-source-tools-for-data-science
 
-## Module 1: 
+## [Module 1:](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%202/Module%201/Readme.md)
 - Cite popular open source, commercial, and cloud-based tools used by data scientists.
 - Explain the function of an API and list some common API-related terms.
 - Discuss the characteristics of a dataset and the ways data can be structured.
