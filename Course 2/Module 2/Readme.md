@@ -25,3 +25,5 @@
 * [Module 2 - Lab 6](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/plotting_with_R.md.html?origin=www.coursera.org)
 
 ![](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%202/img/Rstudio-ggplot.PNG)
+
+# [Getting Started with GitHub](https://github.com/FacuJulia/testrepo)
