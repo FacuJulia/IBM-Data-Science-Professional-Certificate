@@ -8,8 +8,10 @@ In this lab, you will explore the Model Asset Exchange (MAX) and the Data Asset 
 
 The Data Asset Exchange is a curated collection of open datasets from IBM Research and third-parties that you can use to train models.
 
-![]()
+![](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%202/img/dax-noaa.PNG)
 
 ## Exercise 2 - Explore deep learning models
 
 The Model Asset Exchange is a curated repository of open source deep learning models for a variety of domains, such as text, image, audio, and video processing. 
+
+![](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%202/img/max.PNG)
