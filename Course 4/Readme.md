@@ -27,3 +27,19 @@
 - Explain how for loops and while loops work
 - Work with condition statements in Python, including operators and branching
 - Create and use loop statements in Python.
+
+## Module 4:
+- Explain how Pandas use data frames.
+- Use Pandas for library and data analysis by using commands.
+- Read text files using Python libraries including open and with.
+- Use NumPy to create one-dimensional and two-dimensional arrays.
+- Write and save files in Python.
+
+## Module 5:
+- Explain the use of the HTTP protocol using the Requests Library method.
+- Describe how the URL Request Response HTTP protocol works.
+- Learn to apply simple, open-source APIs.
+- Perform basic webscraping using Python.
+- Work with different file formats using Python.
+- Explain the difference between APIs and REST APIs.
+- Summarize how APIs receive and send information.
