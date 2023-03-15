@@ -1,5 +1,16 @@
 # Course 4: Python for Data Science, AI & Development
 
+![](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%204/img/Certificate%20Course%204.PNG)
+
+[https://www.coursera.org/learn/python-for-applied-data-science-ai](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+
+## Cheat Sheet:
+
+![](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%204/img/Python%20Cheat%20Sheet%20-%20The%20Basics%20Coursera_page-0001.jpg)
+
+![](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%204/img/Python%20Cheat%20Sheet%20-%20The%20Basics%20Coursera_page-0002.jpg)
+
+
 ## Module 1: 
 
 - Demonstrate an understanding of types in Python by converting or casting data types such as strings, floats, and integers.
