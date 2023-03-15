@@ -1,6 +1,6 @@
 # Course 1: What is Data Science?
 
-![]()
+![](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%201/img/Certificate%20Course%201.PNG)
 
 https://www.coursera.org/learn/what-is-datascience
 
