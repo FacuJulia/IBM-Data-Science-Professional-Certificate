@@ -1,6 +1,6 @@
 # Course 2: Tools for Data Science
 
-![]()
+![](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%202/img/Certificate%20Course%202.PNG)
 
 https://www.coursera.org/learn/open-source-tools-for-data-science
 
