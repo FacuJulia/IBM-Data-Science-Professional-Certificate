@@ -27,7 +27,7 @@ https://www.coursera.org/learn/open-source-tools-for-data-science
 - Create, edit. and upload new files in GitHub.
 - Use GitHub to create a branch, commit changes, and initiate a pull request.
 
-## Module 3:
+## [Module 3:](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/tree/main/Course%202/Module%203)
 - Define the Watson Studio.
 - Explain how Watson Studio can streamline data projects and make them easier to manage.
 - List some of the primary assets included in Watson Studio.
