@@ -44,7 +44,7 @@ https://www.coursera.org/learn/open-source-tools-for-data-science
 - List the features included with IBM Watson and explain how it ensures fairness and explainability of model drift.
 
 
-## Module 4:
+## [Module 4:](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/tree/main/Course%202/Module%204)
 - Create and share a public Jupyter notebook, in any language, in Watson Studio and create markdown cells for peer review.
 - Evaluate and grade final assignments submitted by fellow learners using the given rubric. 
 - Provide constructive feedback and offer ideas and suggestions that fellow learners can apply right away.
