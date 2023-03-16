@@ -7,7 +7,7 @@ This professional certificate is a series of 10 courses:
 
 - [Course 1:  What is Data Science?](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/tree/main/Course%201)
 - [Course 2:  Tools for Data Science](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/tree/main/Course%202)
-- Course 3:  Data Science Methodology
+- [Course 3:  Data Science Methodology](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/tree/main/Course%203)
 - [Course 4:  Python for Data Science, AI & Development](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/tree/main/Course%204)
 - [Course 5:  Python Project for Data Science](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/tree/main/Course%205)
 - Course 6:  Databases and SQL for Data Science with Python
