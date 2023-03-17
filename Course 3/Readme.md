@@ -18,10 +18,10 @@
 * **Data Collection:** Data scientists identify and gather the available data resources. These can be in the form of structured, unstructured, and even semi-structured data relevant to the problem domain. Example: Web Scraping (Lab 2).
 
 ## Module 2: From Understanding to Preparation and from Modeling to Evaluation
-* **Data Understanding:**
-* **Data Preparation (missing, invalid values):**
-* **Modeling:**
-* **Evaluation:**
+* **Data Understanding:** Helps to construct the data set, verify if the data that you collected is representative of the problem to be solved. Use correlations to see how closely certain variables are related, use histograms of the variables to understand their distributions. Verify if any "missing value" mean anything (Lab 3).
+* **Data Preparation:** Handling with missing or invalid values and remove duplicates, correct data format. Apply Feature engineering, create features that make the machine learning algorithms work. Is the most time-consuming phase of a data science project (Lab 3).
+* **Modeling:** Focuses on developing models that are either descriptive or predictive, use a training set for predictive modelling, historical data which the outcomes are already known, acts like a gauge to determine if the model needs to be calibrated (Lab 4).
+* **Evaluation:** The modeling and evaluation stages are done iteratively. Allows the quality of the model to be assessed but it's also an opportunity to see if it meets the initial request. (Phases: Diagnostic measures and statistical significance testing). The optimal model is the one giving the maximum separation between ROC curve relative to base line. It's a useful diagnostic tool in determining the optimal classification model (Lab 4).
 
 ## Module 3: From Deployment to Feedback
 * **Deployment:**
