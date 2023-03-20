@@ -11,7 +11,7 @@
 * Create and execute CREATE TABLE, SELECT, INSERT, and DELETE SQL statements with a live database.
 
 ### Module 2: Introduction to Relational Databases and Tables
-# Compose and execute CREATE TABLE, ALTER, DROP, and TRUNCATE statements hands-on on a live database.
+* Compose and execute CREATE TABLE, ALTER, DROP, and TRUNCATE statements hands-on on a live database.
 * Create a database instance on the Cloud.
 * Describe basic relational database concepts including tables, primary keys and foreign keys.
 * Compare and contrast Data Definition Language and Data Manipulation Language.
