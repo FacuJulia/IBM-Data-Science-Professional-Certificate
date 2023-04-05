@@ -4,13 +4,13 @@
 
 [https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science](https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science)
 
-### Module 1: Getting Started with SQL
+### [Module 1: Getting Started with SQL](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%206/Module%201/Readme.md)
 * Create an IBM Cloud Lite account.
 * Demonstrate how to write basic SQL statements.
 * Describe SQL and Databases.
 * Create and execute CREATE TABLE, SELECT, INSERT, and DELETE SQL statements with a live database.
 
-### Module 2: Introduction to Relational Databases and Tables
+### [Module 2: Introduction to Relational Databases and Tables](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%206/Module%202/Readme.md)
 * Compose and execute CREATE TABLE, ALTER, DROP, and TRUNCATE statements hands-on on a live database.
 * Create a database instance on the Cloud.
 * Describe basic relational database concepts including tables, primary keys and foreign keys.
