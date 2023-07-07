@@ -1,6 +1,8 @@
 # Data Science Methodology
 
-![]()
+![](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%203/img/Certificate%20Course%203.PNG)
+
+[https://www.coursera.org/learn/data-science-methodology/](https://www.coursera.org/learn/data-science-methodology/)
 
 ## FlowChart
 ![](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/blob/main/Course%203/img/Datascience_methodology_flowchart.png)
